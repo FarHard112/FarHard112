@@ -1,7 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Themida
-- 🌱 I’m currently learning  DDD Architecture
-- 🤔 I’m looking for help with  Microsoft Docs
 - 💬 Ask me about C#
 - 📫 How to reach me:  [Site](https://www.farhadmammmadov.dev)
 - 😄 Pronouns:He/Him
